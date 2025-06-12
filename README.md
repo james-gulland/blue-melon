@@ -13,7 +13,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-#1C2233: dark blue - background
+#191F2E: dark background blue
 #2e3755: accent blue
 #91B4D5: light blue text
 #91B4D550: light blue muted
@@ -21,7 +21,8 @@ You can author your README using Visual Studio Code. Here are some useful editor
 #927688: mountbaton pink
 #f4f0e5: albaster cream 
 #d1d4e0: mint cream - text
-#E4F0FB - default text
+#E4F0FB - default
+#FFFAC2 - yellow types
 
 #92768850: grey
 #b3b9cc: grey text
@@ -32,6 +33,7 @@ complimentary colours:
 #F09DB8 - pink
 #D59DF0 - purple
 
+#1C2233: dark blue - background
 #E98771 - darker melon
 
 #ac4042 - dark red
