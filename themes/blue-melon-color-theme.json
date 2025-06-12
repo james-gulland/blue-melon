@@ -1,3 +1,4 @@
+
 {
     "name": "Blue Melon",
     "type": "dark",
@@ -32,7 +33,7 @@
       "editorGroupHeader.tabsBackground": "#1C2233",
       "editorHoverWidget.background": "#1C2233",
       "editorHoverWidget.border": "#ffffff10",
-      "editorIndentGuide.background": "#2e3755",
+      "editorIndentGuide.background1": "#2e3755",
       "editorLineNumber.foreground": "#91B4D550",
       "editorLink.activeForeground": "#ADD7FF",
       "editorSuggestWidget.background": "#1C2233",
@@ -230,7 +231,14 @@
       "debugView.valueChangedHighlight": "#89ddff",
       "descriptionForeground": "#91B4D5b3",
       "diffEditor.diagonalFill": "#91B4D533",
-      "dropdown.foreground": "#e4f0fb",    
+      "dropdown.foreground": "#e4f0fb",
+      "editorBracketHighlight.foreground1": "#91B4D5",
+      "editorBracketHighlight.foreground2": "#91B4D5",
+      "editorBracketHighlight.foreground3": "#91B4D5",   
+      "editorBracketHighlight.foreground4": "#91B4D5",
+      "editorBracketHighlight.foreground5": "#91B4D5",
+      "editorBracketHighlight.foreground6": "#91B4D5",
+      "editorBracketHighlight.unexpectedBracket.foreground": "#91B4D5",    
       "errorForeground": "#c47676",
       "extensionBadge.remoteBackground": "#2e3755",
       "extensionBadge.remoteForeground": "#e4f0fb",
@@ -479,7 +487,7 @@
         }
       },
       {
-        "scope": ["variable - meta.import", "constant.other.placeholder", "meta.object-literal.key-meta.object.member"],
+        "scope": ["variable - meta.import", "variable.other.readwrite.alias", "constant.other.placeholder", "meta.object-literal.key-meta.object.member"],
         "settings": {
           "foreground": "#e4f0fb"
         }
@@ -561,7 +569,7 @@
         "scope": ["keyword.control.module", "keyword.control.import", "keyword.control.export", "keyword.control.default"],
         "settings": {
           "foreground": "#f0ac9d",
-           "fontStyle": "italic"
+           "fontStyle": "italic"    
         }
       },
       {
@@ -586,12 +594,8 @@
         "scope": [
           "constant.other.color",          
           "meta.tag",
-          "punctuation.definition.tag",
-          "punctuation.separator.inheritance.php",
-          "punctuation.definition.tag.html",
-          "punctuation.definition.tag.begin.html",
-          "punctuation.definition.tag.end.html",
           "punctuation.section.embedded",
+          "punctuation.separator.inheritance.php",
           "keyword.other.template",
           "keyword.other.substitution",
           "meta.objectliteral"
@@ -680,7 +684,7 @@
       {
         "scope": ["keyword.control.as", "entity.name.type", "support.type"],
         "settings": {
-          "foreground": "#e5ebf4"
+          "foreground": "#fffac2",
         }
       },
       {
@@ -1170,7 +1174,8 @@
         "settings": {
           "foreground": "#91B4D5"
         }
-      }
+      },
+      
     ]
   }
   

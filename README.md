@@ -21,12 +21,18 @@ You can author your README using Visual Studio Code. Here are some useful editor
 #927688: mountbaton pink
 #f4f0e5: albaster cream 
 #d1d4e0: mint cream - text
+#E4F0FB - default text
 
 #92768850: grey
 #b3b9cc: grey text
 
+complimentary colours:
+#F0D69D: yellow
+#9DF0AC - green
+#F09DB8 - pink
+#D59DF0 - purple
+
 #E98771 - darker melon
-#9DF0AC - a green
 
 #ac4042 - dark red
 #c47676 - light red
