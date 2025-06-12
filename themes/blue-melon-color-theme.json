@@ -123,7 +123,7 @@
       "scrollbarSlider.activeBackground": "#91B4D525",
       "scrollbarSlider.background": "#00000080",
       "scrollbarSlider.hoverBackground": "#91B4D525",
-      "selection.background": "#91B4D5",
+      "selection.background": "#2e3755",
       "sideBar.background": "#151a26",
       "sideBar.foreground": "#91B4D599",
       "sideBar.border": "#91B4D530",
@@ -134,10 +134,10 @@
       "statusBar.foreground": "#91B4D5",
       "statusBar.noFolderBackground": "#151a26",
       "tab.activeBackground": "#2e375580",
-      "tab.activeForeground": "#e4f0fb",
+      "tab.activeForeground": "#91B4D5",
       "tab.border": "#00000000",
       "tab.inactiveBackground": "#151a26",
-      "tab.inactiveForeground": "#91B4D5",
+      "tab.inactiveForeground": "#91B4D550",
       "tab.activeBorderTop": "#f0ac9d",
       "tab.unfocusedActiveForeground": "#91B4D5",
       "tab.activeModifiedBorder": "#ADD7FF",
@@ -528,7 +528,7 @@
         }
       },
       {
-        "scope": ["variable.parameter", "variable.other.readwrite.js", "meta.definition.variable variable.other.constant", "meta.definition.variable variable.other.readwrite"],
+        "scope": ["variable.parameter", "variable.object.property", "variable.other.readwrite.js", "meta.definition.variable variable.other.constant", "meta.definition.variable variable.other.readwrite"],
         "settings": {
           "foreground": "#e4f0fb"
         }
@@ -618,7 +618,8 @@
         "name": "Function Call",
         "scope": "variable.function, source meta.function-call entity.name.function, source meta.function-call entity.name.function, source meta.method-call entity.name.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor, meta.block meta.var.expr meta.function-call entity.name.function, support.function.console, meta.function-call support.function, meta.property.class variable.other.class, punctuation.definition.entity.css",
         "settings": {
-          "foreground": "#e4f0fbd0"
+          "foreground": "#91B4D5"
+        //   sasdsad
         }
       },
       {
@@ -682,7 +683,8 @@
       {
         "scope": ["keyword.control.as", "entity.name.type", "support.type"],
         "settings": {
-          "foreground": "#fffac2",
+          "foreground": "#FFFAC2",
+        //   sadasd
         }
       },
       {
