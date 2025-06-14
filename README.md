@@ -1,4 +1,4 @@
-## Blue Melong Theme
+## Blue Melon Theme
 
 A futuristic dark theme with a blue melon colour palette.
 

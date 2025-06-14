@@ -1,4 +1,3 @@
-
 {
     "name": "Blue Melon",
     "type": "dark",
@@ -250,7 +249,7 @@
       "gitDecoration.conflictingResourceForeground": "#c47676",
       "gitDecoration.deletedResourceForeground": "#c47676",
       "gitDecoration.ignoredResourceForeground": "#91B4D540",
-      "gitDecoration.modifiedResourceForeground": "#FFFAC2CC",
+      "gitDecoration.modifiedResourceForeground": "#f0ac9d",
       "gitDecoration.renamedResourceForeground": "#f0ac9d",
       "gitDecoration.stageDeletedResourceForeground": "#c47676",
       "gitDecoration.stageModifiedResourceForeground": "#ADD7FF",
