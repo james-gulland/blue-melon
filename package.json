@@ -20,6 +20,7 @@
     "blue melon theme",
     "futuristic",
     "futuristic theme",
+    "minimal",
     "James Gulland",
     "JamesGulland"
   ],
@@ -31,5 +32,6 @@
         "path": "./themes/blue-melon-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "melon.png"
 }
