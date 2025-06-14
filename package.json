@@ -1,13 +1,27 @@
 {
   "name": "blue-melon",
-  "displayName": "Blue Melon",
-  "description": "Blue Melon Theme",
+  "displayName": "Blue Melon Theme",
+  "description": "A futuristic dark theme with a blue melon colour palette.",
   "version": "0.0.1",
+  "publisher": "JamesGulland",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/james-gulland/blue-melon"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "blue melon theme",
+    "futuristic",
+    "futuristic theme",
+    "James Gulland",
+    "JamesGulland"
   ],
   "contributes": {
     "themes": [

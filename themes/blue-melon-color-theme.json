@@ -112,7 +112,7 @@
       "inputValidation.infoBorder": "#89ddff",
       "inputValidation.warningBorder": "#fffac2",
       "notifications.background": "#1C2233",
-      "notifications.foreground": "#e4f0fb", // asd
+      "notifications.foreground": "#e4f0fb",
       "panel.border": "#535f8130",
       "panelTitle.activeForeground": "#91B4D5",
       "peekView.border": "#00000030",
@@ -132,7 +132,7 @@
       "sideBarSectionHeader.background": "#1C2233",
       "sideBarTitle.foreground": "#91B4D5",
       "statusBar.background": "#1C2233",
-      "statusBar.border": "#",
+      "statusBar.border": "#535f8150",
       "statusBar.foreground": "#91B4D5",
       "statusBar.noFolderBackground": "#1C2233",
       "tab.activeBackground": "#252d43",
@@ -140,7 +140,6 @@
       "tab.border": "#00000000",
       "tab.inactiveBackground": "#1C2233",
       "tab.inactiveForeground": "#535f81CC",
-    //   "tab.activeBorderTop": "#f0ac9d",
       "tab.unfocusedActiveForeground": "#91B4D5",
       "tab.activeModifiedBorder": "#ADD7FF",
       "tab.inactiveModifiedBorder": "#ADD7FF80",
@@ -618,9 +617,7 @@
         "name": "Function Call",
         "scope": "variable.function, source meta.function-call , source meta.function-call entity.name.function, source meta.method-call entity.name.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor, meta.block meta.var.expr meta.function-call entity.name.function, support.function.console, meta.function-call support.function, meta.property.class variable.other.class, punctuation.definition.entity.css",
         "settings": {
-        //   "foreground": "#91B4D5"
         "foreground": "#F0D69D"
-        //   sasdsad
         }
       },
       {
@@ -684,7 +681,6 @@
       {
         "scope": ["keyword.control.as", "entity.name.type"],
         "settings": {
-        //   "foreground": "#FFFAC2",
         "foreground": "#ADD7FFCC",
         "fontStyle": "italic"
         }
@@ -738,7 +734,6 @@
         "scope": ["entity.other.attribute-name"],
         "settings": {
           "foreground": "#91B4D5",
-        //   "fontStyle": "italic"
         }
       },
       {
@@ -1065,7 +1060,7 @@
         }
       },
       {
-        // "scope": ["punctuation.section.embedded"],
+        "scope": ["punctuation.section.embedded"],
         "settings": {
           "foreground": "#91B4D5",
           "fontStyle": "italic"
