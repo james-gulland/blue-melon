@@ -1062,8 +1062,7 @@
       {
         "scope": ["punctuation.section.embedded"],
         "settings": {
-          "foreground": "#91B4D5",
-          "fontStyle": "italic"
+          "foreground": "#91B4D5"
         }
       },
       {
