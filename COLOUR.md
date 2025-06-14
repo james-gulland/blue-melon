@@ -40,3 +40,6 @@ older:
 #404e74: lighter titleBar
 #404e7470: even lighter titleBar
 #404e74CC
+
+check:
+"editorGutter.commentRangeForeground": "#91B4D5",
