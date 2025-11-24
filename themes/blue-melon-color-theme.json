@@ -137,7 +137,7 @@
       "tab.activeForeground": "#91B4D5",
       "tab.border": "#00000000",
       "tab.inactiveBackground": "#1C2233",
-      "tab.inactiveForeground": "#535f81CC",
+      "tab.inactiveForeground": "#535f81", 
       "tab.unfocusedActiveForeground": "#91B4D5",
       "tab.activeModifiedBorder": "#ADD7FF",
       "tab.inactiveModifiedBorder": "#ADD7FF80",
@@ -685,7 +685,7 @@
       {
         "scope": [ "entity.name.type", "support.type.primitive"],
         "settings": {
-        "foreground": "#F0D69D",
+        "foreground": "#fffac2",
         }
       },
       {
